@@ -15,7 +15,6 @@ I am a student of Computer Science at the State University of Paraíba and front
 <img src="https://img.shields.io/badge/primereact%20-%23007ACC.svg?&style=for-the-badge&logo=react&logoColor=white&color=004466">
 <img src="https://img.shields.io/badge/material%20ui%20-%230081CB.svg?&style=for-the-badge&logo=material-ui&logoColor=white"/>
 <img src="https://img.shields.io/badge/Nestjs-%23E0234E.svg?&style=for-the-badge&logo=nestjs&logoColor=white">
-<img src="https://img.shields.io/badge/docker%20-%23007ACC.svg?&style=for-the-badge&logo=docker&logoColor=white&color=00ace6">
 <img src="https://img.shields.io/badge/mongodb%20-%2343853D.svg?&style=for-the-badge&logo=mongodb&logoColor=ffffff&color=13aa52">
 <img src="https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e">
 </div>
