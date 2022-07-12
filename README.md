@@ -1,6 +1,6 @@
 ### Hello, I'm Diego Muniz 👋
 
-I am a student of Computer Science at the State University of Paraíba and frontend developer at the Center for Strategic Technologies in Health - NUTES.
+I am a student of Computer Science at the State University of Paraíba and frontend developer at the Iteris an Software Company.
 
 <h2 align="center" id="#tecnology">Tecnology</h2>
 <div align="center">
