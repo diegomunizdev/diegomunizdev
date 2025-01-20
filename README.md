@@ -1,7 +1,5 @@
 ### Hello, I'm Diego Muniz 👋
 
-I am a student of Computer Science at the State University of Paraíba and frontend developer at the Iteris an Software Company.
-
 <h2 align="center" id="#tecnology">Tecnology</h2>
 <div align="center">
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white&color=E95420" />
